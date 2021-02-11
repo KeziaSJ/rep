@@ -1,5 +1,5 @@
 class MyClass:
 	def myfn(self):
-		print("this is my function")
+		print("Rangeela on the floor")
 p1=MyClass()
 p1.myfn()
